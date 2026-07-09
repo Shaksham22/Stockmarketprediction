@@ -1,7 +1,5 @@
 # Stockmarketprediction
 
-This project started from a simple question I had: can macroeconomic signals help identify better entry and exit points in the Indian stock market?
-
 For my Research Methodologies course at Lakehead University, I built a stock market prediction portal focused on the **Nifty 50 index** and its underlying stocks. Instead of trying to predict the exact future price, the portal simplifies the output into **Buy**, **Sell**, and **Hold** signals using stock price movement, macroeconomic indicators, and technical trend confirmation.
 
 The core hypothesis behind the project was that the **Nifty 50 reacts to global market movements with a delay**, especially movements in the **NASDAQ Composite**. Since the U.S. market influences global liquidity, investor confidence, technology sentiment, and risk appetite, I wanted to test whether NASDAQ movement and U.S. interest-rate changes could help support better investment timing in the Indian market.
