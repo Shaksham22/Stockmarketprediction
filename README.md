@@ -1,10 +1,12 @@
 # Stockmarketprediction
 
-I created this project for my Research Methodologies course at Lakehead University, where I developed a portal to assist with stock market investment decisions. The portal classifies the **Nifty 50 index** and its underlying equities into simple **Buy**, **Sell**, and **Hold** categories based on stock prices, macroeconomic indicators, and technical trend signals.
+This project started from a simple question I had: can macroeconomic signals help identify better entry and exit points in the Indian stock market?
 
-The core idea behind the project came from my hypothesis that the **Nifty 50 often reacts to broader global market movements with a lag**, especially movements in the **NASDAQ Composite**. Since the U.S. market strongly influences global liquidity, investor confidence, technology sentiment, and risk appetite, I wanted to test whether U.S. market signals and interest-rate movement could help identify better entry and exit points in the Indian equity market.
+For my Research Methodologies course at Lakehead University, I built a stock market prediction portal focused on the **Nifty 50 index** and its underlying stocks. Instead of trying to predict the exact future price, the portal simplifies the output into **Buy**, **Sell**, and **Hold** signals using stock price movement, macroeconomic indicators, and technical trend confirmation.
 
-The image below shows the UI of the portal.
+The core hypothesis behind the project was that the **Nifty 50 reacts to global market movements with a delay**, especially movements in the **NASDAQ Composite**. Since the U.S. market influences global liquidity, investor confidence, technology sentiment, and risk appetite, I wanted to test whether NASDAQ movement and U.S. interest-rate changes could help support better investment timing in the Indian market.
+
+The screenshot below shows the portal interface.
 
 <img width="1470" alt="Stock Market Prediction Portal UI" src="https://github.com/Shaksham22/Stockmarketprediction/assets/42165736/bc4afc14-4a28-412b-a943-423e1cc43367">
 
